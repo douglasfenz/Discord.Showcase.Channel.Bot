@@ -99,4 +99,5 @@ async def shaturanga(ctx, second_player):
         await ctx.send("Ocorreu algum erro.")
 
 
-client.run("MTI2MzIxNTIzMzYxOTQ2NDI2Mg.Gwx4P-.8JMkX7KuKcqhWvTakuwru-aU59yGdd9_b2xcXo")
+
+client.run("")
